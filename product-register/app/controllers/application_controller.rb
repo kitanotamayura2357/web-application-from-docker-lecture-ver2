@@ -1,3 +1,4 @@
-class ApplicationController < ActionController::Base
+cass ApplicationController < ActionController::Base
+
 
 end
